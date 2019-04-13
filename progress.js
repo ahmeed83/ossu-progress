@@ -66,7 +66,7 @@ var progress = [
 						name: 'C++ Game programming 2',
 						url: 'https://www.linkedin.com/learning/c-plus-plus-game-programming-2,
 						status: 'todo'
-					},
+					}
 				]
 			},
 			{
