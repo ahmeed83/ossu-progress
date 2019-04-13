@@ -57,6 +57,16 @@ var progress = [
 						url: 'https://www.coursera.org/learn/programming-languages-part-c',
 						status: 'todo'
 					},
+					{
+						name: 'C++ Game programming 1',
+						url: 'https://www.linkedin.com/learning/c-plus-plus-game-programming-1',
+						status: 'todo'
+					},
+					{
+						name: 'C++ Game programming 2',
+						url: 'https://www.linkedin.com/learning/c-plus-plus-game-programming-2,
+						status: 'todo'
+					},
 				]
 			},
 			{
