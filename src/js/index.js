@@ -28,6 +28,7 @@ function createCategoryOutput(category){
 function createCourseOutput(course){
 	const statuses = {
 		done: '<div class="status done"><div class="checkmark draw"></div></div>',
+		nvt: '<div class="status nvt"></div>',
 		doing: '<div class="status doing"></div>',
 		todo: '<div class="status todo"></div>'
 	}

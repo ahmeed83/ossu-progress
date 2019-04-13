@@ -1,20 +1,21 @@
 'use strict';
 
 var progress = [
-	{
+/*	{
 		name: 'Introduction to Computer Science',
 		courses: [
 		{
 			name: 'Introduction to Computer Science - CS50',
 			url: 'https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!',
-			status: 'todo'
+			status: 'nvt'
 		},
 		{
 			name: 'Introduction to Computer Science and Programming using Python',
 			url: 'https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10',
-			status: 'todo'
+			status: 'nvt'
 		}
 	]},
+*/
 	{
 		name: 'Core CS',
 		categories: [
@@ -24,7 +25,7 @@ var progress = [
 					{
 						name: 'How to Code - Simple Data',
 						url: 'https://www.edx.org/course/how-code-simple-data-ubcx-htc1x',
-						status: 'todo'
+						status: 'doing'
 					},
 					{
 						name: 'How to Code - Complex Data',
@@ -44,7 +45,7 @@ var progress = [
 					{
 						name: 'Programming Languages, Part A',
 						url: 'https://www.coursera.org/learn/programming-languages',
-						status: 'todo'
+						status: 'doing'
 					},
 					{
 						name: 'Programming Languages, Part B',

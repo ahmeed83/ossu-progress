@@ -25,6 +25,15 @@
   border-color: #d1ba54;
   background-color: #d1ba54; }
 
+.status.nvt,
+.status.nvt:after {
+  margin-top: 7px;
+  margin-left: 2px;
+  width: 0.76923em;
+  height: 0.76923em;
+  border-color: #0f0e0a;
+  background-color: #0f0e0a; }
+
 .status.todo,
 .status.todo:after {
   margin-top: 7px;

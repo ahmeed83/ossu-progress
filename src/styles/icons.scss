@@ -6,6 +6,7 @@ $check-width: $check-height/2;
 $check-left: ($loader-size/6 );
 $check-thickness: 2px;
 $done-color: #5cb85c;
+$nvt-color: rgb(15, 14, 10);
 $doing-color: rgb(209, 186, 84);
 $todo-color: rgb(110, 110, 110);
 
@@ -39,6 +40,16 @@ $todo-color: rgb(110, 110, 110);
 	border-color: $doing-color;
 	background-color: $doing-color;
 }
+
+.status.nvt,
+.status.nvt:after {
+  margin-top: 7px;
+  margin-left: 2px;
+  width: 0.76923em;
+  height: 0.76923em;
+  border-color: $nvt-color;
+  background-color: $nvt-color; }
+
 
 .status.todo,
 .status.todo:after {

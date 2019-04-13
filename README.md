@@ -10,6 +10,7 @@ Preview [here](https://geritol.github.io/ossu).
 
 Alter `progress.js` to reflect your current progress with the course.  
 Use the following statuses:  
+- nvt
 - todo
 - doing
 - done

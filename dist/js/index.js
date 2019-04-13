@@ -4,7 +4,6 @@
 	progress.forEach(function renderCategory(category) {
 		document.getElementById('ossu').innerHTML += createCategoryOutput(category);
 	});
-	console.log('hello');
 })();
 
 function createCategoryOutput(category) {
@@ -29,6 +28,7 @@ function createCategoryOutput(category) {
 function createCourseOutput(course) {
 	var statuses = {
 		done: '<div class="status done"><div class="checkmark draw"></div></div>',
+		nvt: '<div class="status nvt"></div>',
 		doing: '<div class="status doing"></div>',
 		todo: '<div class="status todo"></div>'
 	};
