@@ -35,7 +35,7 @@ var progress = [
 					{
 						name: 'Software Construction - Data Abstraction',
 						url: 'https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x',
-						status: 'todo'
+						status: 'doing'
 					},
 					{
 						name: 'Software Construction - Object-Oriented Design',
@@ -45,7 +45,7 @@ var progress = [
 					{
 						name: 'Programming Languages, Part A',
 						url: 'https://www.coursera.org/learn/programming-languages',
-						status: 'doing'
+						status: 'todo'
 					},
 					{
 						name: 'Programming Languages, Part B',
