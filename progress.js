@@ -35,7 +35,7 @@ var progress = [
 					{
 						name: 'Software Construction - Data Abstraction',
 						url: 'https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x',
-						status: 'doing'
+						status: 'doing' 
 					},
 					{
 						name: 'Software Construction - Object-Oriented Design',
