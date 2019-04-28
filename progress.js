@@ -42,7 +42,21 @@ var progress = [
 						url: 'https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x',
 						status: 'todo'
 					},
-
+					{
+						name: 'Programming Languages, Part A',
+						url: 'https://www.coursera.org/learn/programming-languages',
+						status: 'todo'
+					},
+					{
+						name: 'Programming Languages, Part B',
+						url: 'https://www.coursera.org/learn/programming-languages-part-b',
+						status: 'todo'
+					},
+					{
+						name: 'Programming Languages, Part C',
+						url: 'https://www.coursera.org/learn/programming-languages-part-c',
+						status: 'todo'
+					},
 					{
 						name: 'C++ Game programming 1',
 						url: 'https://www.linkedin.com/learning/c-plus-plus-game-programming-1',
