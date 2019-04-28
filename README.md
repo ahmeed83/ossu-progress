@@ -4,8 +4,6 @@
 Showcase your progress with the Open Source Society University's Computer Science curriculum.  
 Currently only `Introduction to Computer Science` and `Core CS` courses are included.  
 
-Preview [here](https://geritol.github.io/ossu).
-
 ## Usage
 
 Alter `progress.js` to reflect your current progress with the course.  
@@ -30,3 +28,6 @@ gulp dev
 running.
 
 Before deploying run `gulp` to create the production build to the ```./dist``` folder.
+
+
+[forked from](https://github.com/geritol/ossu-progress).
