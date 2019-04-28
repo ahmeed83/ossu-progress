@@ -22,11 +22,7 @@ var progress = [
 			{
 				name: 'Core programming',
 				courses: [
-					{
-						name: 'How to Code - Simple Data',
-						url: 'https://www.edx.org/course/how-code-simple-data-ubcx-htc1x',
-						status: 'doing'
-					},
+
 					{
 						name: 'How to Code - Complex Data',
 						url: 'https://www.edx.org/course/how-code-complex-data-ubcx-htc2x',
